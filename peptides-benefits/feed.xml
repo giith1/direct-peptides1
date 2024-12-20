@@ -83,7 +83,7 @@
             <div class="container-fluid" style="display: flex; align-items: center; justify-content: space-between; height: 100%;">
                 <div style="height:px; width:px;"><img src="image.php?name=direct-peptides-logo-2.png&id=8868449886749c15da8f2b0.62533573" alt="Logo" style="height:140px;width:250px"></div>
                 <div class="links ml-4" style="display: flex; flex: 1; justify-content: center; align-items: center;">
-                    <a href="index.html" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a><a href="Peptides-in-Drug-Development.html" style="color: #000000; margin-right: 40px;">Peptides in Drug</a><a href="Peptide-Synthesis-and-Manufacturing.html" style="color: #000000; margin-right: 40px;">Peptide Synthesis</a><a href="Applications-of-Peptides-in-Diagnostics.html" style="color: #000000; margin-right: 40px;">Diagnostics</a>
+                    <a href="" style="color: #000000; margin-right: 40px;">Home</a><a href=".html" style="color: #000000; margin-right: 40px;">About Us</a><a href="Peptides-in-Drug-Development.html" style="color: #000000; margin-right: 40px;">Peptides in Drug</a><a href="Peptide-Synthesis-and-Manufacturing.html" style="color: #000000; margin-right: 40px;">Peptide Synthesis</a><a href="Applications-of-Peptides-in-Diagnostics.html" style="color: #000000; margin-right: 40px;">Diagnostics</a><a href=".html" style="color: #000000; margin-right: 40px;">BPC-157 Peptides</a>
                 </div>
             </div>
         </nav>
